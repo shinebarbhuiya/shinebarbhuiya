@@ -1,8 +1,8 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Shine Barbhuiya</h1>
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/shinebarbhuiya"><img src="https://komarev.com/ghpvc/?username=shinebarbhuiya&label=Profile%20views&color=0e75b6&style=flat" alt="shinebarbhuiya" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
@@ -11,13 +11,13 @@
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbirHasan2005&show_icons=true&locale=en" alt="AbirHasan2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinebarbhuiya&show_icons=true&locale=en" alt="shinebarbhuiya" /></p>
 
 <details>
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasan2005)](https://github.com/AbirHasan2005)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinebarbhuiya)](https://github.com/shinebarbhuiya)
 
 </details>
 
@@ -56,5 +56,3 @@
 
 </details>
 
-### API by Me:
-<p align="left"> <a href="https://api.abirhasan.wtf" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
