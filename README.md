@@ -4,12 +4,7 @@
 
 <p align="left"> <a href="https://github.com/shinebarbhuiya"><img src="https://komarev.com/ghpvc/?username=shinebarbhuiya&label=Profile%20views&color=0e75b6&style=flat" alt="shinebarbhuiya" /></a> </p>
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/shinebarbhuiya"><img src="https://github-profile-trophy.vercel.app/?username=shinebarbhuiya" alt="Shinebarbhuiya" /></a> </p>
 
-</details>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinebarbhuiya&show_icons=true&locale=en" alt="shinebarbhuiya" /></p>
 
